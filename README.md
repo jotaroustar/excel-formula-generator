@@ -2,7 +2,6 @@
 
 > 不用背函数，描述需求就能拿到能直接粘贴的公式。支持 Excel / WPS / Google Sheets 全平台，基础功能完全免费，AI 增强按需使用。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![HTML](https://img.shields.io/badge/HTML-单文件-blue.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Excel%20%7C%20WPS%20%7C%20Google%20Sheets-green.svg)]()
 [![AI 支持](https://img.shields.io/badge/AI-BYOK-orange.svg)]()
