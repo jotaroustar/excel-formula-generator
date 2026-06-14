@@ -210,14 +210,10 @@ index.html   # 全部代码（HTML + CSS + JS 单文件，53KB）
 | [jotarou.com API](https://jotarou.com) | AI API 中转服务，支持 Claude / GPT / DeepSeek |
 
 ---
-
-## 📄 许可证
-
-MIT License · 自由使用、修改、分发
-
 ---
 
 <div align="center">
   <p>由 <a href="https://jotarou.com">jotarou.com</a> 提供支持 · 开源免费</p>
   <p>@jotaroustar 用心制作 ❤️</p>
 </div>
+© 2026 jotarou.com · 代码版权所有，禁止直接复制用于商业产品
