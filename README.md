@@ -196,19 +196,6 @@ index.html   # 全部代码（HTML + CSS + JS 单文件，53KB）
 
 ---
 
-## 🔗 相关项目
-
-| 项目 | 说明 |
-|------|------|
-| [快递单号提取器](https://jotarou.com/tools/express/) | 批量提取快递单号，支持截图 AI 识别 |
-| [简历优化器](https://jotarou.com/tools/resume/) | AI 逐条分析建议 / JD 匹配度分析 |
-| [日报周报生成器](https://jotarou.com/tools/report/) | 输入工作内容，一键生成专业报告 |
-| [文案生成器](https://jotarou.com/tools/copywriter/) | 朋友圈/社交媒体文案，覆盖多平台多风格 |
-| [AI 面试模拟器](https://jotarou.com/tools/interview/) | 全岗位面试练习，AI 实时点评打分 |
-| [英文邮件生成器](https://jotarou.com/tools/email/) | 12 场景职场英文邮件，告别 Chinglish |
-| [jotarou.com API](https://jotarou.com) | AI API 中转服务，支持 Claude / GPT / DeepSeek |
-
----
 ---
 
 <div align="center">
